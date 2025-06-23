@@ -1,0 +1,45 @@
+Discussion Forum – Unit on Network Fundamentals
+Word Count: 523
+
+As a consultant assisting a small business setting up its first computer network, starting with networking fundamentals is essential. Understanding the different types of networks and their topologies will help ensure the business selects the most efficient and cost-effective solution.
+
+Types of Networks and Topologies
+There are different types of networks
+
+ Local Area Networks (LANs)
+Wide Area Networks (WANs) and
+  Metropolitan Area Networks (MANs).
+A LAN connects computers within a limited area, like an office building, making it ideal for small businesses due to its high speed and low cost (Forouzan, 2017).
+  WANs, on the other hand, cover large geographical areas and are typically used by large organizations to connect multiple branches.
+  MANs serve cities or large campuses, but are less common for small businesses.
+For network topologies, the most common types are star, mesh, bus, and ring. A star topology is most suitable for small businesses because all devices are connected to a central hub or switch. This layout is easy to manage, and if one device fails, it doesn’t affect the others. In contrast, a mesh topology offers high redundancy and fault tolerance but is expensive and complex to maintain. Bus and ring topologies are largely outdated and less reliable due to their linear or sequential nature (Kurose & Ross, 2020).
+
+Connecting Devices: Routers, Switches, and Hubs
+Connecting devices are the backbone of a network. A router connects different networks and routes data between them. For instance, a small business router connects the internal LAN to the internet, assigning IP addresses and managing traffic.
+
+A switch operates within the LAN and connects various devices such as computers, printers, and servers. It efficiently sends data only to the intended recipient, improving network performance. A hub, though similar to a switch, is an outdated technology that broadcasts data to all connected devices regardless of the destination, leading to congestion and security risks (Tanenbaum & Wetherall, 2013).
+
+For small businesses, a combination of a router and a switch is ideal. This setup provides reliable internal communication and internet connectivity.
+
+Transmission Modes
+Data in a network can be transmitted in three modes:
+
+Simplex – Data flows in only one direction. It’s used in scenarios like keyboard-to-computer communication or broadcasting where feedback is not required.
+
+Half-Duplex – Data flows in both directions, but only one side can transmit at a time. This is suitable for walkie-talkie communication systems.
+
+Full-Duplex – Data can flow simultaneously in both directions, like in telephone calls or modern computer networks. Full-duplex is the most efficient and is recommended for small business networks to ensure seamless communication (Forouzan, 2017).
+
+Conclusion
+To summarize, a LAN with a star topology, supported by a router and a switch, would be the most appropriate for a small business. It balances performance, cost, and ease of maintenance. Full-duplex transmission mode should be implemented to maximize communication efficiency. Understanding these basics will help the business make informed decisions as it scales.
+
+Discussion Question:
+In what scenarios might a small business opt for a mesh topology over a star topology, despite the higher cost?
+
+References
+
+Forouzan, B. A. (2017). Data Communications and Networking (5th ed.). McGraw-Hill Education.
+
+Kurose, J. F., & Ross, K. W. (2020). Computer Networking: A Top-Down Approach (8th ed.). Pearson.
+
+Tanenbaum, A. S., & Wetherall, D. J. (2013). Computer Networks (5th ed.). Pearson.
