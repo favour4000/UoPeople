@@ -1,0 +1,83 @@
+Unit 7 Discussion: Programming Paradigms and Software Design
+
+Programming paradigms are ways of programming that influence how developers write and organize code. The three types of paradigms, Structured Programming, Functional Programming, and Object-Oriented Programming (OOP), provide distinct strategies for organizing code and solving problems.
+
+Structured Programming
+Structured Programming emphasizes a top-down approach, using clear, linear sequences, conditionals, and loops. This paradigm discourages the use of GOTO statements and encourages control flow constructs like if, while, and for loops. It is grounded in the idea of breaking problems into smaller, manageable procedures or functions (Sebesta, 2016).
+
+Example: In C, a structured program that calculates the average of three numbers would have a main() function and a separate function to compute the average.
+
+float calculateAverage(float a, float b, float c) {
+    return (a + b + c) / 3;
+}
+Functional Programming
+Functional Programming treats computation as the evaluation of mathematical functions and avoids changing state or mutable data. It encourages immutability, recursion, and pure functions, which makes the code easier to test and debug. Languages such as Haskell and Lisp are classic examples, though modern languages like JavaScript and Python also support functional features (Krishnamurthi, 2019).
+
+Example: A simple map() function in Python:
+
+numbers = [1, 2, 3, 4]
+squared = list(map(lambda x: x ** 2, numbers))
+Object-Oriented Programming (OOP)
+OOP organizes software design around data, or objects, rather than functions and logic. It is based on four main principles: encapsulation, inheritance, abstraction, and polymorphism. This paradigm is ideal for modeling real-world systems and supports code reuse and scalability. Languages like Java, C++, and Python use OOP extensively.
+
+Example: A basic class in Python:
+
+class Car:
+    def __init__(self, make, model):
+        self.make = make
+        self.model = model
+
+    def drive(self):
+        return f"{self.make} {self.model} is driving"
+Influence on Code Organization and Problem Solving
+Each paradigm influences how developers conceptualize solutions:
+
+Structured encourages logical sequencing and modularity.
+
+Functional emphasizes declarative coding and data transformation.
+
+OOP enables the modeling of complex systems through interacting objects.
+
+Depending on the task, choosing the appropriate paradigm can lead to cleaner, more maintainable, and scalable code.
+
+Software Solution: Analysis and Design Phase
+If tasked with designing a new software solution, I would follow these essential steps in the problem analysis and design phases:
+
+Requirements Gathering: Meet with stakeholders to understand the business goals and user needs.
+
+System Specification: Define functional and non-functional requirements.
+
+Modeling the Problem Domain:
+
+For an OOP approach, identify potential classes, attributes, and methods.
+
+Use Unified Modeling Language (UML) diagrams to represent system structure and behavior.
+
+Design Principles:
+
+Modularity: Break the system into smaller, independent modules.
+
+Separation of Concerns: Ensure each module handles a single aspect of functionality.
+
+DRY (Don’t Repeat Yourself): Avoid code duplication.
+
+SOLID principles: Especially useful in OOP for building robust systems.
+
+Design Methodology:
+
+Apply Agile development practices, allowing for iterative improvements.
+
+Use Test-Driven Development (TDD) to ensure code is reliable and meets requirements.
+
+Implement Version Control Systems (VCS) like Git for team collaboration.
+
+By following these strategies, I ensure that the final software is not only functional but also maintainable, scalable, and resilient to changes over time.
+
+Question for Discussion:
+In your opinion, which programming paradigm is most suitable for building large-scale, collaborative software projects, and why?
+
+References:
+
+Krishnamurthi, S. (2019). Programming Languages: Application and Interpretation. Brown University.
+
+Sebesta, R. W. (2016). Concepts of Programming Languages (11th ed.). Pearson.
