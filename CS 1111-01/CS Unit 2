@@ -1,0 +1,22 @@
+CS 1111-01 - AY2025-T4
+Assignment Activity Unit 2
+
+Assignment Activity Unit 2
+Completion requirements
+ Done: Make a submission
+Opened: Thursday, 17 April 2025, 12:05 AM
+Due: Thursday, 24 April 2025, 11:55 PM
+Assignment Instructions:
+In this assignment, you will be able to examine, identify, and apply the basic concepts of number systems. 
+
+Scenario: Envision yourself working at a technology company specializing in software development for various industries. One day, your supervisor hands you a task to convert a set of decimal numbers into their binary, octal, and hexadecimal equivalents for a project that involves encoding and decoding data. The numbers are critical for a system that communicates with different devices using specific coding representations. 
+
+Explain the process you would follow to convert the given decimal numbers to binary, octal, and hexadecimal representations. Take the first 3 digits of your birth date as an example. (For example, if your birthdate is 28-11-1982 then take 281 as number for the conversions) 
+
+Why is it important to be proficient in converting between different number systems in a technical industry job? 
+
+In this scenario, why might it be necessary to use different coding representations like ASCII, Unicode, or BCD for different aspects of the project? How would you choose which representation to use? 
+
+Provide an example of a situation where choosing the right coding representation could be crucial for the success of a project. 
+
+Compare and contrast the character set size, compatibility, and usage of ASCII, Unicode, Gray code, BCD, and EBCDIC in the context of this project. Which coding representation would you recommend for this particular task and why? 
