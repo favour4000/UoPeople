@@ -1,0 +1,43 @@
+CS 1111-01 - AY2025-T4
+Assignment Activity Unit 3
+
+Assignment Activity Unit 3
+Completion requirements
+ Done: Make a submission
+Opened: Thursday, 24 April 2025, 12:05 AM
+Due: Thursday, 1 May 2025, 11:55 PM
+Assignment Instructions
+
+In this assignment, you will be able to examine and apply the basic concepts of Boolean Algebra and Logic Gates. The focus is on applying Boolean algebra and logic gates to create efficient representations of conditions and actions. You are also expected to explain the relationship between De Morgan's Theorems and other Boolean algebra laws. Additionally, you will design truth tables for specific logical conditions, illustrating the system's behavior in response to different conditions. This assignment not only tests your technical skills but also provides a practical application of theoretical concepts in the field of digital logic design.
+
+Scenario: Imagine you are an engineer tasked with designing the logic for a smart home security system. The system involves various sensors and actuators to monitor and control different aspects of the home's security. Your goal is to use Boolean algebra and logic gates to create a logical framework that efficiently represents the conditions and actions for the smart home security system.
+
+On the basis of the above scenario, answer the following questions.
+
+Question 1: 
+
+a. Define Boolean expressions for the following conditions:
+
+i)  Motion sensor in the living room is triggered.
+ii) The front door is opened.
+
+b. Use the laws of Boolean algebra to simplify the expressions as much as possible.
+Question 2: 
+
+a. Apply De Morgan's Theorems to express the negation of the following conditions:
+
+i)  Smoke is detected in the kitchen.
+ii) Windows are closed.
+
+b. Show the relationship between De Morgan's Theorems and other Boolean algebra laws in your explanations.
+Question 3: 
+
+a. Design a truth table for an AND gate representing the condition: "Motion sensor in the living room AND front door is opened."
+b. Design a truth table for a NOR gate representing the condition: "Security alarm is armed NOR windows are closed."
+Question 4: 
+
+a. Determine the equivalence between the simplified Boolean expressions from Q1 and the corresponding truth tables from Question 3.
+b. Provide algebraic manipulations and logical reasoning to support your conclusions.
+Question 5: 
+
+a. Integrate the simplified Boolean expressions from Q1 and the gates from Q3 to represent the overall logic for the smart home security system.
