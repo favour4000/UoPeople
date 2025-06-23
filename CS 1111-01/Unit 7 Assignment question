@@ -1,0 +1,9 @@
+Assignment Instructions
+
+This assignment aims to provide you with hands-on experience in mastering key concepts such as algorithmic design, input management, conditional logic, iterative processes, and debugging techniques. These skills are essential for effective programming and problem-solving across diverse domains. 
+
+Scenario: You are tasked with creating an algorithm for a basic finance application that calculates the monthly budget for a user. The algorithm should consider income, fixed expenses, and variable expenses. Your goal is to incorporate sequencing, conditional selection, and iterative loops to provide an accurate monthly budget calculation. Furthermore, you need to be vigilant about potential logical errors and utilize debugging techniques to ensure the correctness of the algorithm.  
+
+Develop a step-by-step sequencing algorithm that calculates a user's monthly budget. Include prompts for the user to input their monthly income, fixed expenses (e.g., rent, utilities), and variable expenses (e.g., groceries, entertainment). Use conditional selection to handle different expense scenarios and an iterative loop to account for multiple variable expenses. Finally, calculate and display the remaining budget after deducting expenses.  
+
+Assume a logical error occurs where the algorithm occasionally miscalculates the remaining budget, resulting in incorrect values. Describe how you would use debugging techniques and tools to identify and rectify this logical error. 
