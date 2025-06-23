@@ -1,0 +1,36 @@
+Selecting the Right Computer System Architecture for Small Business Needs
+
+When selecting a computer system for a small business, it's important to know the different classifications of computer systems and how they suit various business functions.
+
+Classifying and Describing Computer Systems
+Computer systems can be classified into different categories based on their size, performance, and use case:
+1. Personal computers (PCs): They are the general-purpose systems designed for individual use, like employees who perform administrative tasks.
+2. Workstations: These are more powerful than PCs and are used for tasks that require higher computing capabilities, like software development, graphic design, etc.
+3. Servers: They are designed to manage network resources. Servers handle functions like hosting databases, websites, etc.
+4. Mobile Devices and Laptops: These are more flexible and are ideal for employees who need to work remotely.
+5. Embedded Systems: These are less common in small offices; they may be used in specialized devices like point-of-sale (POS).
+
+Each of these systems has various characteristics in terms of processing power, memory, connectivity, storage capacity, and expandability. It's important to match these characteristics to the needs of each department.
+
+Factors to Consider When Choosing a Computer System
+When selecting a computer system for a small business, here are a few factors to consider:
+i. Purpose and User Role: Determine what tasks the user will perform.
+ii. Budget: Consider the business's financial resources.
+iii. Scalability: Get systems that can be easily upgraded as the business grows.
+IV. Security: Consider the system the built-in security features.
+v. Energy Efficiency: Consider the system's energy efficiency, whether it can last in the long term.
+vi. Compatibility and Software Needs: Ensure that the computer system is compatible with the business requirements.
+
+Role of Von Neumann Architecture in Decision-Making
+Understanding the Von Neumann architecture is important when evaluating computer systems, especially in terms of processing efficiency and system design. The Von Neumann model, which underpins most computer systems, is based on a single storage structure and data (Morley & Parker, 2015).
+The stored program concept makes it easy to update or change software without altering the hardware. However, the Von Neumann architecture also introduced the concept of "Von Neumann bottleneck," where the CPU is limited by the speed at which it can access memory.
+
+Conclusion
+Choosing the right computer system for a small business requires a good understanding of computer classifications, the business needs and requirements, and the Von Neumann principles.
+
+Discussion Question
+How can the limitations of the Von Neumann architecture impact future developments in computer systems, especially with the rise of AI?
+
+References
+Morley, D., & Parker, C. S. (2015). Understanding Computers: Today and Tomorrow, Comprehensive (15th ed.). Cengage Learning.
+Business LibreTexts. (2023). 12.5: Different Types of Communication. In Principles of Management. https://biz.libretexts.org/Bookshelves/Management/Principles_of_Management/12%3A_Communication_in_Organizations/12.5%3A_Different_Types_of_Communication
